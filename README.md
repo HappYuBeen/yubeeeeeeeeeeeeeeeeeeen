@@ -184,7 +184,7 @@ EEG 신호 데이터를 활용하여
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:yubeeni83i@gmail.com)
 
 <br><br>
 
