@@ -113,9 +113,9 @@ EEG 신호 데이터를 활용하여
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yubeeeeeeeeeeeeeeeeeeen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubeeeeeeeeeeeeeeeeeeen&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -123,7 +123,7 @@ EEG 신호 데이터를 활용하여
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yubeeeeeeeeeeeeeeeeeeen&hide_border=true" />
 
 </div>
 
