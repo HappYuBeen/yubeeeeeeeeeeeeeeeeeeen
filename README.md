@@ -12,7 +12,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yubeeeeeeeeeeeeeeeeeeen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HappYuBeen)
 
 </div>
 
@@ -113,9 +113,9 @@ EEG 신호 데이터를 활용하여
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yubeeeeeeeeeeeeeeeeeeen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HappYuBeen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubeeeeeeeeeeeeeeeeeeen&layout=compact&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappYuBeen&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -123,7 +123,7 @@ EEG 신호 데이터를 활용하여
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yubeeeeeeeeeeeeeeeeeeen&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=HappYuBeen&hide_border=true" />
 
 </div>
 
@@ -183,7 +183,7 @@ EEG 신호 데이터를 활용하여
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/yubeeeeeeeeeeeeeeeeeeen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/HappYuBeen)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:yubeeni83i@gmail.com)
 
 <br><br>
